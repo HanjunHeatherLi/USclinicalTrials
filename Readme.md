@@ -4,7 +4,7 @@
 US Regi can be used to pull key information from clinicaltrial.org. It is coded in Python, leveraging pytrials package which wrapper around the clinicaltrials.gov API. User interface is leveraging PyQt5 
 
 ### How to use
--Run main.py, and you will get a window to fill your request
+-Run main.py, and you will get a window to input your request
 
 ![US Regi Request Window](https://github.com/HanjunHeatherLi/USclinicalTrials/blob/main/png/window.png)
 
