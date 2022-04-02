@@ -1,7 +1,7 @@
-# # US Regi
+# US Regi
 ### Overview
 
-US Regi can be used to pull key information from clinicaltrial.org. It is coded in Python, leveraging pytrials package which wrapper around the clinicaltrials.gov API. User interface is leveraging PyQt5 which is a comprehensive set of Python bindings for Qt v5.
+US Regi can be used to pull key information from clinicaltrial.org. It is coded in Python, leveraging pytrials package which wrapper around the clinicaltrials.gov API. User interface is leveraging PyQt5 
 
 ### How to use
 -Run main.py, and you will get a window to fill your request
