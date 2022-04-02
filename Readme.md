@@ -12,4 +12,4 @@
 
 -With this csv file, you can generate tableau dashboard, here show one example
 
-![Tableau Dashboard Example](http://url/to/img.png)
+![Tableau Dashboard Example](https://github.com/HanjunHeatherLi/USclinicalTrials/blob/main/png/Dashboard_1.jpg)
